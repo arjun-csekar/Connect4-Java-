@@ -128,13 +128,5 @@ public class Board {
 	public void setPlayer2(Piece player2) {
 		this.player2 = player2;
 	}
-
-	public char getPLAYER_1() {
-		return PLAYER_1;
-	}
-
-	public char getPLAYER_2() {
-		return PLAYER_2;
-	}
 	
 }
